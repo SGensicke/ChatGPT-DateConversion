@@ -1,0 +1,83 @@
+Die folgende Tabelle hat drei Spalten: Seitenzahl, Nummer und Datierung. Die Datierungen enthalten oft einen Ort. Bitte teile Ort und Datum in zwei separate Spalten auf. Füge außerdem zwei neue Spalten hinzu, in denen einmal das frühestmögliche und einmal das spätestmögliche Datum im Format JJJJ-MM-TT angegeben ist. Bitte gib die gesamte Tabelle ohne Kommentar im TSV-Format aus.
+Seitenzahl	Nummer	Datierung
+208-210	40	Ferentino, 1150 Dezember 17.
+210-212	41	Lateran, (1153) Januar 8.
+212-213	42	Rom, St. Peter (1150. 53) Mai 3.
+213-215	43	Lateran, 1154 Januar 1.
+215-216	44	Lateran, (1154) Januar 2.
+216-217	45	Lateran, 1154 (April 20 oder Mai 9).
+217-218	46	(Ende 1153 -vor Sommer 1154).
+218-220	47	(1154 Sommer).
+220-221	48	Lateran, (1154) November 25.
+221-222	49	Rom St.Peter, (1154) Dezember 13.
+222-223	50	Rom St. Peter, (1154) Dezember 16.
+223-224	51	(1155 Anfang).
+224	52	Lateran, (1156-58) Dezember 23.
+225-226	53	Lateran, (1159) Februar 18.
+226	54	Lateran, (1159) Februar 18.
+226-227	55	Lateran, (1159) Mai 23.
+227-229	56	(1159 Jan. 6-Sept.
+229-230	57	(1159 vor September 1).
+230-231	58	(1159 vor September 1).
+231-232	59	(1159 vor September 1).
+232-233	60	(1159 vor September 1).
+233	61	
+233-234	62	(1159 vor September 1).
+234-235	63	(1159 vor September 1).
+235-236	64	(1159 vor September 1).
+236-237	65	(1159 vor September 1).
+237-238	66	(1159 vor September 1).
+238	67	(1159 vor September 1).
+238-239	68	(1159 vor September 1).
+239-240	69	(1159 vor September 1).
+240-241	70	(1159 vor September 1).
+241-243	71	(1159 nach September 7-1160 Januar).
+243-244	72	Chartres, (vor 1161) Februar 22.
+244-245	73	(vor 1161 Mai).
+245-246	74	(1160-1161  Mai).
+246-247	75	Praeneste, (1161) Juni 27.
+247-249	76	(1161 ca. Juni-Juli).
+249-250	77	(1161 Herbst).
+250-251	78	(1161 August-1162 Januar).
+251	79	Genua, (1162) Februar 4.
+251-252	80	(1161 August - 1162 März).
+252-253	81	(1161 August - 1162 März).
+253-254	82	(1161 Herbst-1162 März).
+254-256	83	(1162 Januar-März).
+256-257	84	(vor 1162 Mai).
+257-258	85	(1162 Ende).
+258	86	(1163) Januar 22.
+258-263	87	1163 April 24.
+263-265	88	(1163, vor Mai).
+265-266	89	(1163) Dezember 19.
+266-267	90	(1164) August 18.
+267-269	91	(ca. 1162-1164).
+269	92	(1162-64).
+269-271	93	(1162-1164 vor Herbst).
+271-272	94	(1162-64, Herbst).
+272-274	95	(1162-65 März).
+274-275	96	(1165) August 4.
+275	97	(vor 1168 Juni).
+275-276	98	(vor 1168 Juni).
+276-278	99	(1168 Juni).
+278	100	(1168 Juni).
+278-279	101	(1168 Juni).
+279-280	102	(1168 Juni).
+280-282	103	(1161 Februar-März oder 1168 Juni).
+282-283	104	(1166-68).
+283-284	105	(1166-68).
+284-285	106	(ca. 1168-69).
+285-287	107	(vor 1169 September 30).
+287-289	108	(1169) September 30.
+289-290	109	(1167-69) November 9.
+290-291	110	(1170 vor April).
+291-293	111	(1170) Mai 13.
+293-294	112	(1170 ca. Mai).
+294-296	113	(1171) Februar 1.
+296-297	114	(1171) Februar 1.
+297-299	115	1171 Februar 1.)
+299-300	116	
+300-301	117	(Winter 1171-72).
+301-302	118	(1172) April 11.
+302-303	119	(1172) April 11.
+303-304	120	(1172 März-April).
