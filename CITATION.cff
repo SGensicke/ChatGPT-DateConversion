@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Using ChatGPT for Date Conversion"
+version: v.1.0.0
+license: "GNU General Public License v3.0"
+type: software
+abstract: "Documentation and code evaluating ChatGPT’s ability to convert verbal date expressions found in regesta on medieval sources into standardized numeric date formats."
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Sebastian
+    family-names: Gensicke
+    orcid: "https://orcid.org/0000-0002-7479-307X"
+keywords:
+  - regesta
+  - date conversion
+  - medieval history
